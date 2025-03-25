@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Voltrex09
-- 👀 I’m interested in learning how to program
-- and stufying Cs or Computer engineering 
+- 👀 I’m interested in learning how to program and im looking forward to study Cs or Computer engineering 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me, Discord:voltrex_gr
 - email: voltrex.its@yahoo.com 
